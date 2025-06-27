@@ -24,3 +24,15 @@
 
   <img src="https://raw.githubusercontent.com/AangQwerty/AangQwerty/refs/heads/main/Data/Document/IMG-20250627-WA0006.jpg" alt="Hasil Gambar" style="max-width: 100%; height: auto; border: 1px solid #ccc;" />
 </details>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="git clone https://github.com/AangQwerty/Convig.git"><pre>$ git clone https://github.com/AangQwerty/Convig.git</pre></div>
+  </details>
+  <details>
+  <summary><strong>Cara menggunakan (teks)</strong></summary>
+<ul dir="auto">
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" <pre><span class="pl-c1">1.</span> Masuk ke akun Instagram (tumbal) di kiwi browser dan unduh ekstensi nya (cek folder ekstensi.txt)</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" <pre><span class="pl-c1">2.</span> Setelah keduanya selesai, Masuk halaman home Instagram lalu klik titik tiga di kanan atas kemudian klik ekstensi yang sudah kamu tambahkan/download tadi.</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" <pre><span class="pl-c1">3.</span> Jika sudah akan muncul cookies nya, lalu unduh saja dengan klik (Export As) jika sudah jalankan perintahnya dan pastikan folder cookie yang kamu download tadi sudah ada.</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" <pre><span class="pl-c1">4.</span> Masukan nama file cookie yang sudah kamu download tadi (pastikan path/folder nya benar). Dan selamat menggunakan 👋</pre></div>
+<ul dir="auto">
+</ul>
