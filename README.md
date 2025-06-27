@@ -24,4 +24,11 @@
 </ul>
 
 
-Wwwj
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"</div>
+  </details>
+  <details>
+  <summary><strong>Jalankan script (finishing)</strong></summary>
+<ul dir="auto">
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="cd /$HOME Convig"><pre><span class="pl-c1">$ cd</span> Convig</pre></div>
+<ul dir="auto">
+</ul>
