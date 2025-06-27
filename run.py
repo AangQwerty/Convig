@@ -45,7 +45,7 @@ class Convert:
 			sys.exit("\n❗Tidak ditemukan data dari 'dpr'.")
 
 if __name__ == "__main__":
-	#os.system("clear")
+	os.system("clear")
 	print(f"[ Baca Deskripsi Di '{H}github.com/AangQwerty/Convig{P}' Untuk Menggunakan ]\n")
 	filepath = input("[?] Masukkan nama file (.txt): ").strip()
 	Convert().convert_cookies(filepath)
