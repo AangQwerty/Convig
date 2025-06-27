@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/AangQwerty/AangQwerty/refs/heads/main/Data/Document/IMG-20250627-WA0006.jpg" alt="Hasil Gambar" style="max-width: 100%; height: auto; border: 1px solid #ccc;" />
 </details>
 
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="git clone https://github.com/AangQwerty/Convig.git"><pre>$ git clone https://github.com/AangQwerty/Convig.git</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"</div>
   </details>
   <details>
   <summary><strong>Cara menggunakan (teks)</strong></summary>
