@@ -1,3 +1,10 @@
+### Ekstensi Chrome For Kiwi Browser (Screenshot)
+![IMG_20250627_151725](https://github.com/user-attachments/assets/e59c9438-707b-48b7-8b7b-b3715b84c0ae)
+
+### Results Convert Cookies (Screenshot)
+![IMG_20250627_151817](https://github.com/user-attachments/assets/4d053408-8d51-4319-b50d-84ffe670362c)
+
+
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Installation myTermux</h2><a id="user-content-installation-mytermux" class="anchor" aria-label="Permalink: Installation myTermux" href="#installation-mytermux"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
   <details open="">
   <summary><strong>Clone repository installer</strong></summary>
